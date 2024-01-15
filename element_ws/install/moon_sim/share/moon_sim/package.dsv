@@ -1,0 +1,3 @@
+source;share/moon_sim/hook/pythonpath.ps1
+source;share/moon_sim/hook/pythonpath.dsv
+source;share/moon_sim/hook/pythonpath.sh

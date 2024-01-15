@@ -1,0 +1,24 @@
+[0.301s] Invoking command in '/home/castrou/element_challenge/element_ws/src/moon_sim': PYTHONPATH=/home/castrou/element_challenge/element_ws/build/moon_sim/prefix_override:/home/castrou/element_challenge/element_ws/install/moon_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moon_sim build --build-base /home/castrou/element_challenge/element_ws/build/moon_sim/build install --record /home/castrou/element_challenge/element_ws/build/moon_sim/install.log --single-version-externally-managed
+[0.408s] running egg_info
+[0.408s] writing ../../build/moon_sim/moon_sim.egg-info/PKG-INFO
+[0.408s] writing dependency_links to ../../build/moon_sim/moon_sim.egg-info/dependency_links.txt
+[0.408s] writing entry points to ../../build/moon_sim/moon_sim.egg-info/entry_points.txt
+[0.408s] writing requirements to ../../build/moon_sim/moon_sim.egg-info/requires.txt
+[0.408s] writing top-level names to ../../build/moon_sim/moon_sim.egg-info/top_level.txt
+[0.409s] reading manifest file '../../build/moon_sim/moon_sim.egg-info/SOURCES.txt'
+[0.409s] writing manifest file '../../build/moon_sim/moon_sim.egg-info/SOURCES.txt'
+[0.410s] running build
+[0.410s] running build_py
+[0.410s] running install
+[0.410s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.410s]   warnings.warn(
+[0.410s] running install_lib
+[0.410s] running install_data
+[0.410s] copying package.xml -> /home/castrou/element_challenge/element_ws/install/moon_sim/share/moon_sim
+[0.410s] copying launch/moon_sim_launch.py -> /home/castrou/element_challenge/element_ws/install/moon_sim/share/moon_sim/launch
+[0.410s] running install_egg_info
+[0.412s] removing '/home/castrou/element_challenge/element_ws/install/moon_sim/lib/python3.10/site-packages/moon_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[0.412s] Copying ../../build/moon_sim/moon_sim.egg-info to /home/castrou/element_challenge/element_ws/install/moon_sim/lib/python3.10/site-packages/moon_sim-0.0.0-py3.10.egg-info
+[0.412s] running install_scripts
+[0.423s] writing list of installed files to '/home/castrou/element_challenge/element_ws/build/moon_sim/install.log'
+[0.437s] Invoked command in '/home/castrou/element_challenge/element_ws/src/moon_sim' returned '0': PYTHONPATH=/home/castrou/element_challenge/element_ws/build/moon_sim/prefix_override:/home/castrou/element_challenge/element_ws/install/moon_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moon_sim build --build-base /home/castrou/element_challenge/element_ws/build/moon_sim/build install --record /home/castrou/element_challenge/element_ws/build/moon_sim/install.log --single-version-externally-managed
